@@ -1,0 +1,36 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "layout": "bannerHigh",
+      "tag": 273
+    },
+    {
+      "imageBanner": "https://smartmom.com.bd/wp-content/uploads/2020/07/109680629_572890320259208_5722472321334308572_n-1.png",
+      "layout": "bannerImage",
+      "height": 118,
+      "category": 119
+    },
+    {
+      "imageBanner": "https://smartmom.com.bd/wp-content/uploads/2021/01/Skin_Care_banner.jpg",
+      "layout": "bannerImage",
+      "height": 118,
+      "category": 175
+    },
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 878
+    },
+    {
+      "name": "bagsCollections",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 184
+    }
+  ],
+  "MainColor": "#ff6a00"
+}

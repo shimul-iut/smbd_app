@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "MStore",
+    "description": "MStore Pro - Complete React Native template for e-commerce. More detail http://bit.ly/2ueNKRf - Make with ♥ by InspireUI -",
+    "slug": "mstore",
+    "privacy": "public",
+    "sdkVersion": "39.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "assets/fonts/*",
+      "assets/images/icons/*",
+      "src/images/*",
+      "src/Expo/vector-icons/fonts//*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.inspireui.mstore"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "version": "4.0.0"
+  }
+}

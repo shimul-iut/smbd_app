@@ -1,0 +1,48 @@
+{
+  "WooCommerce": {
+    "url": "https://smartmom.com.bd/",
+    "consumerKey": "ck_c1bc45d5e359dbbadf1e1fcf5fc8c16d83e4e30f",
+    "consumerSecret": "cs_4b2453c4b973952c5b74acda2aff125ed026c119"
+  },
+  "HorizonLayout": [
+ 
+    {
+      "layout": "circleCategory" 
+    },
+
+    {
+      "layout": "bannerHigh",
+      "tag": 273
+    },
+
+
+    {
+      "imageBanner": "@images/banner/diaper_banner.jpg",
+      "layout": "bannerImage",
+      "height": 118,
+      "category": 120
+    },
+    
+    {
+      "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25142102/MAN-large.png",
+      "layout": "bannerImage",
+      "height": 118,
+      "category": 18
+    },
+  
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 21
+    },
+    {
+      "name": "bagsCollections",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 23
+    }
+  ],
+
+  "MainColor": "#3FC1BE"
+}
